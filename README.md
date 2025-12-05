@@ -9,3 +9,5 @@
 **BERUF**       *Metallbauer*
 
 **HOBBYS**      *Youtube gucken*
+
+**HAUSTIERE**   *1*
