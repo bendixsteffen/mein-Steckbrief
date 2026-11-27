@@ -4,12 +4,13 @@
 
 ### IT-Systemadministrator · Linux & Cloud · IT Operations
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mein%20Profil-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bendix-steffen-407789452/)
+
 **Technik verstehen. Lösungen bauen. Systeme zuverlässig betreiben.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-bendixsteffen-181717?style=for-the-badge&logo=github)](https://github.com/bendixsteffen)
 [![Linux](https://img.shields.io/badge/Linux-Ubuntu%20%7C%20Debian-FCC624?style=for-the-badge&logo=linux&logoColor=111111)](https://www.kernel.org/)
 [![AWS](https://img.shields.io/badge/AWS-Cloud%20Basics-232F3E?style=for-the-badge&logo=amazonaws)](https://aws.amazon.com/)
-[![LinkedIn](https://www.linkedin.com/in/bendix-steffen-407789452)
 
 
 </div>
